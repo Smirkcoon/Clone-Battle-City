@@ -1,0 +1,151 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'ru' Physical Memory: 8190 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/project in Unity/Clone Battle City
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61118
+Successfully changed project path to: C:/project in Unity/Clone Battle City
+C:/project in Unity/Clone Battle City
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 61.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/project in Unity/Clone Battle City/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 550 Ti (ID=0x1244)
+    Vendor:   
+    VRAM:     959 MB
+    Driver:   23.21.13.9135
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56996
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.013131 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 54.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.469 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008607 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.365 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1835.
+Total: 4.324200 ms (FindLiveObjects: 0.418400 ms CreateObjectMapping: 0.073600 ms MarkObjects: 3.690200 ms  DeleteObjects: 0.139000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/GameScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71baef5fddf8e4f932995c363f8a5b5d') in 0.022499 seconds
+  Import took 0.026294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.116967 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun2.png
+  artifactKey: Guid(55841a375b7dff44f964fbfa33889467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun2.png using Guid(55841a375b7dff44f964fbfa33889467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b99c2852e1af32d97345211c743b218') in 0.295997 seconds
+  Import took 0.299760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.397588 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun4.png
+  artifactKey: Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun4.png using Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fee9ec1b42fcc41efcb3d2829915d1a') in 0.027883 seconds
+  Import took 0.031443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.567089 seconds.
+  path: Assets/Resources/TanksModulesEnemy/1.png
+  artifactKey: Guid(bbc7170a554000e47809a29db0b6e2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/1.png using Guid(bbc7170a554000e47809a29db0b6e2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6f8d29ebf60af1629c01ca589704e2') in 0.024401 seconds
+  Import took 0.029554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.218371 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Base2.png
+  artifactKey: Guid(4d5f408f583d27942a5cdb264c7139c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Base2.png using Guid(4d5f408f583d27942a5cdb264c7139c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe8086db45bb68fb3ba2176d4268355') in 0.025414 seconds
+  Import took 0.030117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.610764 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Base1.png
+  artifactKey: Guid(84085de429e0f75469a6277b313ccfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Base1.png using Guid(84085de429e0f75469a6277b313ccfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb583de2cf871df63176441dda32459') in 0.024836 seconds
+  Import took 0.032538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.189633 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Tower3.png
+  artifactKey: Guid(927ce35aa17f0c6458299a99aa2a9610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Tower3.png using Guid(927ce35aa17f0c6458299a99aa2a9610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1679044def578cb63a817e906432bad') in 0.032659 seconds
+  Import took 0.040252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.254418 seconds.
+  path: Assets/Resources/tileSand1.png
+  artifactKey: Guid(55394c01d40f3704abc0995f39e5201d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tileSand1.png using Guid(55394c01d40f3704abc0995f39e5201d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3537acd0cadfcc389692ac8367ec288a') in 0.029257 seconds
+  Import took 0.033986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.958640 seconds.
+  path: Assets/Resources/Base.png
+  artifactKey: Guid(3f59059fba339fc40acc37ad95cab54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Base.png using Guid(3f59059fba339fc40acc37ad95cab54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c3abcba52cc47c33fa94476cefb2dc') in 0.056526 seconds
+  Import took 0.061282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.059119 seconds.
+  path: Assets/Resources/tracks.png
+  artifactKey: Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tracks.png using Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce658dc9f7e4478c8f181fc78763cc8b') in 0.056750 seconds
+  Import took 0.061744 seconds .
+

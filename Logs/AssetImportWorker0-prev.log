@@ -1,0 +1,1601 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'ru' Physical Memory: 8190 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/project in Unity/Clone Battle City
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59151
+Successfully changed project path to: C:/project in Unity/Clone Battle City
+C:/project in Unity/Clone Battle City
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 64.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/project in Unity/Clone Battle City/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 550 Ti (ID=0x1244)
+    Vendor:   
+    VRAM:     959 MB
+    Driver:   23.21.13.9135
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56844
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005150 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 54.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.612 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007316 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.309 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1835.
+Total: 4.241700 ms (FindLiveObjects: 0.419900 ms CreateObjectMapping: 0.077000 ms MarkObjects: 3.554700 ms  DeleteObjects: 0.186700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Resources
+  artifactKey: Guid(48633ebfc4c9b7e4fa000ebca2d61946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(48633ebfc4c9b7e4fa000ebca2d61946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839db4e56c925d422411e71aeea9335b') in 0.012410 seconds
+  Import took 0.017834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.396009 seconds.
+  path: Assets/Resources/TanksModules
+  artifactKey: Guid(a14df182ece49d341a24cd84ad8bca94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules using Guid(a14df182ece49d341a24cd84ad8bca94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe54d89725edfe644c985a16a7021d0') in 0.037588 seconds
+  Import took 0.044607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 855.453914 seconds.
+  path: Assets/Resources/TanksModules/Gun_01_A.png
+  artifactKey: Guid(3d63a1521dbad844089ead629e020af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/Gun_01_A.png using Guid(3d63a1521dbad844089ead629e020af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e38fe9185f8c6cb304bef256569801b') in 0.272688 seconds
+  Import took 0.279072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.342417 seconds.
+  path: Assets/Resources/TanksModules/Gun_08_A — копия.png
+  artifactKey: Guid(0d0c11173a0dc28409f761552e14870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/Gun_08_A — копия.png using Guid(0d0c11173a0dc28409f761552e14870c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d57efde2732fef8578ee79166b470e') in 0.025750 seconds
+  Import took 0.031740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.116121 seconds.
+  path: Assets/Resources/TanksModules/Gun_06_B — копия.png
+  artifactKey: Guid(5bc28502c1732034c9e5839f68d2dc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/Gun_06_B — копия.png using Guid(5bc28502c1732034c9e5839f68d2dc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f42a2dae019fb310728be1f593de5e') in 0.029219 seconds
+  Import took 0.033340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.064886 seconds.
+  path: Assets/Resources/TanksModules/Gun_01_A — копия.png
+  artifactKey: Guid(e502566d45be5324190a2724c5d0db68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/Gun_01_A — копия.png using Guid(e502566d45be5324190a2724c5d0db68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a87b00f7297ecb8afe42a40fb7a7773') in 0.047779 seconds
+  Import took 0.053370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.904631 seconds.
+  path: Assets/Resources/TanksModules/Gun_01_B — копия.png
+  artifactKey: Guid(63dc21aeb884a014f9fa82161fdd25a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/Gun_01_B — копия.png using Guid(63dc21aeb884a014f9fa82161fdd25a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da8a3f2435fa04fd10f3dbe2e0dfd48') in 0.113004 seconds
+  Import took 0.118139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.261809 seconds.
+  path: Assets/Resources/TanksModules/Gun_06_A — копия.png
+  artifactKey: Guid(bac837ac895f7fd48896aac2e918cfea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/Gun_06_A — копия.png using Guid(bac837ac895f7fd48896aac2e918cfea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5e62313c29feb25e00236dda59b65f') in 0.047115 seconds
+  Import took 0.054071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.593730 seconds.
+  path: Assets/Resources/TanksModules/1 (1).png
+  artifactKey: Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/1 (1).png using Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3348ba551bd85b8d3715febb4b04a2e6') in 0.102517 seconds
+  Import took 0.133791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.256462 seconds.
+  path: Assets/Resources/TanksModules/1 (2).png
+  artifactKey: Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/1 (2).png using Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df85885640628f606741f26f77a02d2') in 0.047642 seconds
+  Import took 0.051323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.101485 seconds.
+  path: Assets/Resources/TanksModules/1 (6).png
+  artifactKey: Guid(1ae76a0393fb7e54e99d451feceeded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/1 (6).png using Guid(1ae76a0393fb7e54e99d451feceeded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c74006acfd91066fb1ada8d55c06a5ff') in 0.050294 seconds
+  Import took 0.055663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.534850 seconds.
+  path: Assets/Resources/TanksModules/crateMetal.png
+  artifactKey: Guid(4dcae1a40d81a5f4da41ab733178d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/crateMetal.png using Guid(4dcae1a40d81a5f4da41ab733178d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '852e67647e511300c82c0ddadb88473d') in 0.053300 seconds
+  Import took 0.057734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.175119 seconds.
+  path: Assets/Resources/TanksModules/tracksLarge.png
+  artifactKey: Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/tracksLarge.png using Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27595543929f7f96b05a6ef58ef766ed') in 0.054359 seconds
+  Import took 0.057815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003598 seconds.
+  path: Assets/Resources/TanksModules/tracksLarge.png
+  artifactKey: Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModules/tracksLarge.png using Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27595543929f7f96b05a6ef58ef766ed') in 0.054953 seconds
+  Import took 0.061683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.534095 seconds.
+  path: Assets/Resources/TanksModulesEnemy
+  artifactKey: Guid(20852bf7b0c051b4bb84db57dff9d07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy using Guid(20852bf7b0c051b4bb84db57dff9d07d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8555798c30dc8d0c2658923c68ff6773') in 0.029605 seconds
+  Import took 0.040171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.249027 seconds.
+  path: Assets/Resources/TanksModulesPlayer
+  artifactKey: Guid(a14df182ece49d341a24cd84ad8bca94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer using Guid(a14df182ece49d341a24cd84ad8bca94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6fb4ab2c1282fd09f8567950346d924') in 0.019276 seconds
+  Import took 0.024080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.174940 seconds.
+  path: Assets/Resources/TanksModulesPlayer/tileSand1.png
+  artifactKey: Guid(55394c01d40f3704abc0995f39e5201d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/tileSand1.png using Guid(55394c01d40f3704abc0995f39e5201d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d98a9fe9db0ffd5972b7c15abb1ab1') in 0.049566 seconds
+  Import took 0.054269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.431011 seconds.
+  path: Assets/Resources/MissileEnemyTeam02.prefab
+  artifactKey: Guid(46c4bfb127c518a4bb2a016a50e5565a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MissileEnemyTeam02.prefab using Guid(46c4bfb127c518a4bb2a016a50e5565a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '891f0430e90a398916a74a044e345ef9') in 0.189796 seconds
+  Import took 0.195373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.405605 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_02_A.png
+  artifactKey: Guid(2e13206e946ca96488ee95519aa8cb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_02_A.png using Guid(2e13206e946ca96488ee95519aa8cb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc446e44de432d01854d2785be4bf5b') in 0.060981 seconds
+  Import took 0.065135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.946037 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Hull_01.png
+  artifactKey: Guid(f7b8a3a6b15ae294f93c1eac745dc2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Hull_01.png using Guid(f7b8a3a6b15ae294f93c1eac745dc2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23d952a3c861bb093d2a714765446799') in 0.046801 seconds
+  Import took 0.050998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.106175 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Hull_02.png
+  artifactKey: Guid(92e3a9465d3d39044bc1cdfeb63183b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Hull_02.png using Guid(92e3a9465d3d39044bc1cdfeb63183b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e88c326321399fecfbbf3a629d1928') in 0.046605 seconds
+  Import took 0.050731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.438746 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Hull_03.png
+  artifactKey: Guid(4d5f408f583d27942a5cdb264c7139c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Hull_03.png using Guid(4d5f408f583d27942a5cdb264c7139c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23cf653580aacd8ca0f92b28f6cc0ef8') in 0.048025 seconds
+  Import took 0.051943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.078746 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Hull_04.png
+  artifactKey: Guid(84085de429e0f75469a6277b313ccfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Hull_04.png using Guid(84085de429e0f75469a6277b313ccfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ed7fe6c2aad9fe052fc3ef0e232659') in 0.039020 seconds
+  Import took 0.044377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.403528 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Hull_03.png
+  artifactKey: Guid(4d5f408f583d27942a5cdb264c7139c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Hull_03.png using Guid(4d5f408f583d27942a5cdb264c7139c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc81a8d0b3817c7de78298dd955c1a96') in 0.118358 seconds
+  Import took 0.122390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.618589 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Hull_01.png
+  artifactKey: Guid(664918bb42f94044ea58405c6dd6cbbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Hull_01.png using Guid(664918bb42f94044ea58405c6dd6cbbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3307fd88724c5b73b5f54036e2ce0b39') in 0.049359 seconds
+  Import took 0.055298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.260549 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Hull_01.png
+  artifactKey: Guid(664918bb42f94044ea58405c6dd6cbbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Hull_01.png using Guid(664918bb42f94044ea58405c6dd6cbbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c141bdd6ef8354fb65932f6437e7215c') in 0.113835 seconds
+  Import took 0.118312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.835522 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (11).png
+  artifactKey: Guid(8190cafee15dfb64cab4c0bd1b7558eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (11).png using Guid(8190cafee15dfb64cab4c0bd1b7558eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c82ccfb1327944d0503e98c20488800b') in 0.117359 seconds
+  Import took 0.123719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.386090 seconds.
+  path: Assets/Resources/tracksLarge.png
+  artifactKey: Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tracksLarge.png using Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b618dc1e03f4f1a61c76177dc124f98') in 0.082616 seconds
+  Import took 0.086430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.438879 seconds.
+  path: Assets/Resources/Block.prefab
+  artifactKey: Guid(5b52b1b7bcc0867409eed128be5a372a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Block.prefab using Guid(5b52b1b7bcc0867409eed128be5a372a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2744280c828394f8e7adf3c9d503a15f') in 0.067885 seconds
+  Import took 0.073441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.944621 seconds.
+  path: Assets/Resources/BGCell.prefab
+  artifactKey: Guid(7a54e4339441b664aa3f4ed8d83aedc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BGCell.prefab using Guid(7a54e4339441b664aa3f4ed8d83aedc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40d96a75ce3636b0a2744634bbd12758') in 0.076082 seconds
+  Import took 0.085118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.110239 seconds.
+  path: Assets/Resources/tileSand1.png
+  artifactKey: Guid(55394c01d40f3704abc0995f39e5201d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tileSand1.png using Guid(55394c01d40f3704abc0995f39e5201d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5156cd4dbe6e4cf7460d9a1129d8e486') in 0.152098 seconds
+  Import took 0.156763 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014928 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.430 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.1 MB.
+System memory in use after: 68.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1854.
+Total: 4.024900 ms (FindLiveObjects: 0.392700 ms CreateObjectMapping: 0.073600 ms MarkObjects: 3.374100 ms  DeleteObjects: 0.181300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.404321 seconds.
+  path: Assets/Resources/crateMetal.png
+  artifactKey: Guid(4dcae1a40d81a5f4da41ab733178d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/crateMetal.png using Guid(4dcae1a40d81a5f4da41ab733178d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118eedbf41e0a74eb8eace33eeff24c2') in 0.123521 seconds
+  Import took 0.129026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/Resources/tileSand1.png
+  artifactKey: Guid(55394c01d40f3704abc0995f39e5201d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tileSand1.png using Guid(55394c01d40f3704abc0995f39e5201d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ebe33d983197d581a190f25cdb2892') in 0.062019 seconds
+  Import took 0.067022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.452373 seconds.
+  path: Assets/Resources/crateMetal.png
+  artifactKey: Guid(4dcae1a40d81a5f4da41ab733178d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/crateMetal.png using Guid(4dcae1a40d81a5f4da41ab733178d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f96f03600d6c03606ece7a58eba3e6') in 0.045078 seconds
+  Import took 0.050463 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.040870 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.318 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.1 MB.
+System memory in use after: 68.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1860.
+Total: 14.971500 ms (FindLiveObjects: 0.417500 ms CreateObjectMapping: 0.074700 ms MarkObjects: 14.442700 ms  DeleteObjects: 0.033600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.827961 seconds.
+  path: Assets/Resources/crateMetal.png
+  artifactKey: Guid(4dcae1a40d81a5f4da41ab733178d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/crateMetal.png using Guid(4dcae1a40d81a5f4da41ab733178d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e10d22fc3c9982ff0ba6a2f6358ebd') in 0.446951 seconds
+  Import took 0.462009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.443783 seconds.
+  path: Assets/Resources/crateMetal.png
+  artifactKey: Guid(4dcae1a40d81a5f4da41ab733178d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/crateMetal.png using Guid(4dcae1a40d81a5f4da41ab733178d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28eb208533bcdbeff394d8f34275e708') in 0.075530 seconds
+  Import took 0.087435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.990671 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (1).png
+  artifactKey: Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (1).png using Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e35b7e991b1386a2b313eb734f074c0') in 0.054196 seconds
+  Import took 0.058843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.681085 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (3).png
+  artifactKey: Guid(55841a375b7dff44f964fbfa33889467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (3).png using Guid(55841a375b7dff44f964fbfa33889467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b04950020b0df677fd5bd795f33b71cb') in 0.066089 seconds
+  Import took 0.069897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.466172 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (7).png
+  artifactKey: Guid(69ad429d9fe20ac4fb8e66ed179f5b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (7).png using Guid(69ad429d9fe20ac4fb8e66ed179f5b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c265711fae1b1e80ba4e7735c4d75d7c') in 0.049747 seconds
+  Import took 0.055734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.743271 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (2).png
+  artifactKey: Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (2).png using Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c87d24be953f3197b52dc716e5bb527') in 0.073878 seconds
+  Import took 0.078873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.051356 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun1.png
+  artifactKey: Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun1.png using Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9813b611caab84f776f0765a2ac5743') in 0.050861 seconds
+  Import took 0.056922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.814049 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun2.png
+  artifactKey: Guid(55841a375b7dff44f964fbfa33889467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun2.png using Guid(55841a375b7dff44f964fbfa33889467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9965111df62f0c8abb6476b12bb1dae1') in 0.047791 seconds
+  Import took 0.053323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.491512 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (5).png
+  artifactKey: Guid(413a1bb3c3d9df24986b9e6a4c9d8dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (5).png using Guid(413a1bb3c3d9df24986b9e6a4c9d8dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205487117ecbdde13271c33730ba0efe') in 0.055478 seconds
+  Import took 0.060526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.895563 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun3.png
+  artifactKey: Guid(413a1bb3c3d9df24986b9e6a4c9d8dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun3.png using Guid(413a1bb3c3d9df24986b9e6a4c9d8dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7270d11ecd3d0add000e8a7fcdcd0777') in 0.054864 seconds
+  Import took 0.062029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.498788 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun4.png
+  artifactKey: Guid(69ad429d9fe20ac4fb8e66ed179f5b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun4.png using Guid(69ad429d9fe20ac4fb8e66ed179f5b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed3743b5080a62f3045a429b7ae957e') in 0.041723 seconds
+  Import took 0.046579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.712319 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (9).png
+  artifactKey: Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (9).png using Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e1f960bc23bb374b3f2e99994cd68d1') in 0.050633 seconds
+  Import took 0.054845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.907943 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun5.png
+  artifactKey: Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun5.png using Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f28e40d6081ef46ff49a30bc9b397c77') in 0.048414 seconds
+  Import took 0.052745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.585389 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun6.png
+  artifactKey: Guid(8190cafee15dfb64cab4c0bd1b7558eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun6.png using Guid(8190cafee15dfb64cab4c0bd1b7558eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648b31144413077d45d6c849424a5ce7') in 0.040437 seconds
+  Import took 0.055565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.760913 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (13).png
+  artifactKey: Guid(0ea8e07e86959dd46bbfa69f66458b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (13).png using Guid(0ea8e07e86959dd46bbfa69f66458b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aaaee071e00db7a673d260832966c66') in 0.050753 seconds
+  Import took 0.055651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.366416 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun7.png
+  artifactKey: Guid(0ea8e07e86959dd46bbfa69f66458b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun7.png using Guid(0ea8e07e86959dd46bbfa69f66458b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b0c6ceb5c596d75b159606eada3255b') in 0.024122 seconds
+  Import took 0.027983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.703182 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (15).png
+  artifactKey: Guid(58259ae16f3df674586d459f7a39d36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (15).png using Guid(58259ae16f3df674586d459f7a39d36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfedcddb90ef3afe7706d8df27da6d40') in 0.049174 seconds
+  Import took 0.053283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.374730 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun8.png
+  artifactKey: Guid(58259ae16f3df674586d459f7a39d36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun8.png using Guid(58259ae16f3df674586d459f7a39d36c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51fab70fb52d053d8aea6532b0bb9fa0') in 0.040231 seconds
+  Import took 0.046535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.473956 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (10).png
+  artifactKey: Guid(fd7a5c9014d156e4bb26289245878f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (10).png using Guid(fd7a5c9014d156e4bb26289245878f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46919ad552517c797585dc8044c2c540') in 0.051367 seconds
+  Import took 0.056673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.859091 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (12).png
+  artifactKey: Guid(524e7386e7826804d81ac8f4d4f4ddb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (12).png using Guid(524e7386e7826804d81ac8f4d4f4ddb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d602c9d1b861094ffc802efc929a31e') in 0.053331 seconds
+  Import took 0.058670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.333350 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (14).png
+  artifactKey: Guid(7680ed657805a4a419441e6bb91d4b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (14).png using Guid(7680ed657805a4a419441e6bb91d4b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227b11c829969ec3cf02bdf2c58d6825') in 0.049702 seconds
+  Import took 0.053465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.496588 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (8).png
+  artifactKey: Guid(42d40d343d2d2ae4d9b52906129e9dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (8).png using Guid(42d40d343d2d2ae4d9b52906129e9dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24abfba9c666b54590a76a9610296f13') in 0.067453 seconds
+  Import took 0.075465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.352157 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (6).png
+  artifactKey: Guid(1ae76a0393fb7e54e99d451feceeded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (6).png using Guid(1ae76a0393fb7e54e99d451feceeded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af11153a68eba4dc0ded5c3de83b630') in 0.057783 seconds
+  Import took 0.061513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.897334 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (4).png
+  artifactKey: Guid(494eb56165621c545b28abbfa1d3db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (4).png using Guid(494eb56165621c545b28abbfa1d3db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4715278559e22b6f3ac3a673f555b1') in 0.052332 seconds
+  Import took 0.056891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.157946 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Hull_02.png
+  artifactKey: Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Hull_02.png using Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac07f1948cbccf54ca2cce632edcfb77') in 0.055876 seconds
+  Import took 0.059728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.378135 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Hull_04.png
+  artifactKey: Guid(93146e749e06a1a4ca3078e1f908254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Hull_04.png using Guid(93146e749e06a1a4ca3078e1f908254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1091d7f883904db0142f1a37936a0fa9') in 0.045433 seconds
+  Import took 0.049354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.928079 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Hull_03.png
+  artifactKey: Guid(ed03a829fadee6041b615f2bfc23fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Hull_03.png using Guid(ed03a829fadee6041b615f2bfc23fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd36a21eb2fa906c67b678d16d4da04') in 0.045235 seconds
+  Import took 0.056340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.619131 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun4.png
+  artifactKey: Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun4.png using Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66f8e935b061675e0bd6379db2acb80') in 0.041470 seconds
+  Import took 0.046154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.316290 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun5.png
+  artifactKey: Guid(8190cafee15dfb64cab4c0bd1b7558eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun5.png using Guid(8190cafee15dfb64cab4c0bd1b7558eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dac66efd3c4e2c93143591f1b4b58e5') in 0.045364 seconds
+  Import took 0.049630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.317992 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base1.png
+  artifactKey: Guid(93146e749e06a1a4ca3078e1f908254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base1.png using Guid(93146e749e06a1a4ca3078e1f908254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '652ebb91459817cc94fcdf6f85a03ddd') in 0.044104 seconds
+  Import took 0.049002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.097503 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base2.png
+  artifactKey: Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base2.png using Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708d9655f5905b4189ec314161a8e4e1') in 0.046194 seconds
+  Import took 0.050033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.438044 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base3.png
+  artifactKey: Guid(ed03a829fadee6041b615f2bfc23fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base3.png using Guid(ed03a829fadee6041b615f2bfc23fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420493a29e2067d88f9fefd70a3ec2e4') in 0.040318 seconds
+  Import took 0.046741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.670243 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base23.png
+  artifactKey: Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base23.png using Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54157327042647e45c1ec4c9f1b9ec13') in 0.036647 seconds
+  Import took 0.046809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.046396 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base2.png
+  artifactKey: Guid(ed03a829fadee6041b615f2bfc23fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base2.png using Guid(ed03a829fadee6041b615f2bfc23fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f0ca1edc53994350273813dbad4dc2') in 0.034228 seconds
+  Import took 0.041593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.376313 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun6.png
+  artifactKey: Guid(0ea8e07e86959dd46bbfa69f66458b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun6.png using Guid(0ea8e07e86959dd46bbfa69f66458b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c17a7416d9e8298cc6e7ec91f0cd85') in 0.257676 seconds
+  Import took 0.263034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000583 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base3.png
+  artifactKey: Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base3.png using Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f0ee60445bc5a97408559e6b5bba5b') in 0.313698 seconds
+  Import took 0.318906 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011133 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.534 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1864.
+Total: 18.353400 ms (FindLiveObjects: 2.006800 ms CreateObjectMapping: 0.236000 ms MarkObjects: 16.020800 ms  DeleteObjects: 0.086100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.521128 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base3.png
+  artifactKey: Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base3.png using Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac5217fbf18eecc847fee6b2a7701c0d') in 0.579745 seconds
+  Import took 0.602228 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.043151 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.081 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1868.
+Total: 8.013900 ms (FindLiveObjects: 0.556400 ms CreateObjectMapping: 0.135700 ms MarkObjects: 7.283000 ms  DeleteObjects: 0.035500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.148972 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base3.png
+  artifactKey: Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base3.png using Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6adabe01ae1cd9e1de3a0b0c45bbb5f6') in 0.154491 seconds
+  Import took 0.159738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.564135 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (2).png
+  artifactKey: Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (2).png using Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ace7c02dff384e6180d140ff31dc46e') in 0.058623 seconds
+  Import took 0.063773 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006928 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.155 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1872.
+Total: 3.951300 ms (FindLiveObjects: 0.523300 ms CreateObjectMapping: 0.084400 ms MarkObjects: 3.309100 ms  DeleteObjects: 0.031500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.415805 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun1.png
+  artifactKey: Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun1.png using Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b030475135181add6d065ceae1eb6b1a') in 0.131303 seconds
+  Import took 0.135511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.811713 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (2).png
+  artifactKey: Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (2).png using Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0567361aed59b980c81ef3fc6d11ff4') in 0.053394 seconds
+  Import took 0.057419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.656360 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (4).png
+  artifactKey: Guid(494eb56165621c545b28abbfa1d3db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (4).png using Guid(494eb56165621c545b28abbfa1d3db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56906be705b72ba2070911fcad81a864') in 0.051006 seconds
+  Import took 0.056050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.417591 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (6).png
+  artifactKey: Guid(1ae76a0393fb7e54e99d451feceeded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (6).png using Guid(1ae76a0393fb7e54e99d451feceeded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd142da4bb00f03a1548742db4286505b') in 0.060592 seconds
+  Import took 0.065556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.518371 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base1.png
+  artifactKey: Guid(93146e749e06a1a4ca3078e1f908254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base1.png using Guid(93146e749e06a1a4ca3078e1f908254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39744f482e01bb8af532bc0ea0cb1ce5') in 0.048250 seconds
+  Import took 0.052104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.651333 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base2.png
+  artifactKey: Guid(ed03a829fadee6041b615f2bfc23fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base2.png using Guid(ed03a829fadee6041b615f2bfc23fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d6f6951fbc7a0984dca7a6618051788') in 0.048062 seconds
+  Import took 0.052261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.088141 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base3.png
+  artifactKey: Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base3.png using Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db54155e5c69996a5dbc761495e106a7') in 0.053801 seconds
+  Import took 0.058650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.174143 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun6.png
+  artifactKey: Guid(0ea8e07e86959dd46bbfa69f66458b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun6.png using Guid(0ea8e07e86959dd46bbfa69f66458b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c3ecfbc7a3308b24ce57fb882e26b1') in 0.050067 seconds
+  Import took 0.054446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.417311 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun5.png
+  artifactKey: Guid(8190cafee15dfb64cab4c0bd1b7558eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun5.png using Guid(8190cafee15dfb64cab4c0bd1b7558eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d4f3b575c1af921d5e6d4ea56a52a4') in 0.048758 seconds
+  Import took 0.052897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.450350 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun4.png
+  artifactKey: Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun4.png using Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034802e7ef77a69bd7e72b5571292383') in 0.045969 seconds
+  Import took 0.056478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.055600 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun3.png
+  artifactKey: Guid(413a1bb3c3d9df24986b9e6a4c9d8dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun3.png using Guid(413a1bb3c3d9df24986b9e6a4c9d8dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1cfb90c89ccf97cdd11597435ea7d4c') in 0.074731 seconds
+  Import took 0.078570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.553294 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun2.png
+  artifactKey: Guid(55841a375b7dff44f964fbfa33889467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun2.png using Guid(55841a375b7dff44f964fbfa33889467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a98a1ebb87da0ca323bbebb7c1107868') in 0.049507 seconds
+  Import took 0.053200 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006906 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.173 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1876.
+Total: 3.965600 ms (FindLiveObjects: 0.418700 ms CreateObjectMapping: 0.073800 ms MarkObjects: 3.438100 ms  DeleteObjects: 0.032100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.644131 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun1.png
+  artifactKey: Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun1.png using Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000d7ff353078dd6ac976ce81a75bfcf') in 0.143343 seconds
+  Import took 0.152190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.868202 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (2).png
+  artifactKey: Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (2).png using Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dfc5a7ebde55628ec7159eaf64c8f54') in 0.049673 seconds
+  Import took 0.053551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.589165 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun6.png
+  artifactKey: Guid(0ea8e07e86959dd46bbfa69f66458b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun6.png using Guid(0ea8e07e86959dd46bbfa69f66458b67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eff699acd41f1932a3dcb0265d9a644') in 0.046544 seconds
+  Import took 0.060149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.151171 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (2).png
+  artifactKey: Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (2).png using Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f917365adbb35dcdbc831fe78f5ee3a') in 0.058167 seconds
+  Import took 0.062232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.246369 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (6).png
+  artifactKey: Guid(1ae76a0393fb7e54e99d451feceeded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (6).png using Guid(1ae76a0393fb7e54e99d451feceeded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3628e0bdd572d161cb82a4c95a56137b') in 0.050246 seconds
+  Import took 0.054538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.537354 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (4).png
+  artifactKey: Guid(494eb56165621c545b28abbfa1d3db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (4).png using Guid(494eb56165621c545b28abbfa1d3db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd65d54436dbe4824a7868586ccb9e3c') in 0.051037 seconds
+  Import took 0.055296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.121139 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun5.png
+  artifactKey: Guid(8190cafee15dfb64cab4c0bd1b7558eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun5.png using Guid(8190cafee15dfb64cab4c0bd1b7558eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8399d21f63d7029848cfb9aab86465cc') in 0.057623 seconds
+  Import took 0.061594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.800625 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun4.png
+  artifactKey: Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun4.png using Guid(4288c82ff6756684bba28f0c468a0709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598cc7bf2fad73f50628b57c3a5f1e68') in 0.071703 seconds
+  Import took 0.076207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.325491 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun3.png
+  artifactKey: Guid(413a1bb3c3d9df24986b9e6a4c9d8dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun3.png using Guid(413a1bb3c3d9df24986b9e6a4c9d8dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f99aacd772d4511cbe66e49a18932ede') in 0.049392 seconds
+  Import took 0.053112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.042874 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun2.png
+  artifactKey: Guid(55841a375b7dff44f964fbfa33889467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun2.png using Guid(55841a375b7dff44f964fbfa33889467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '539409702ec09647cbd267a7447fe5da') in 0.057007 seconds
+  Import took 0.061519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.417790 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun1.png
+  artifactKey: Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun1.png using Guid(5a9b24803c21dbb46a8dea319227beb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6dd6d99b73187d000e981317115b7a8') in 0.061675 seconds
+  Import took 0.068052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.121398 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (2).png
+  artifactKey: Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (2).png using Guid(530d4ffce5db74b4e818cb4d3e27577d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a126a9dfcd78942d7954cdbf9a8d49f7') in 0.053870 seconds
+  Import took 0.058872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.643120 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (6).png
+  artifactKey: Guid(1ae76a0393fb7e54e99d451feceeded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (6).png using Guid(1ae76a0393fb7e54e99d451feceeded5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11fb8e704f9987c1b79ae9427c81daaa') in 0.050646 seconds
+  Import took 0.056524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.224779 seconds.
+  path: Assets/Resources/TanksModulesPlayer/1 (4).png
+  artifactKey: Guid(494eb56165621c545b28abbfa1d3db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/1 (4).png using Guid(494eb56165621c545b28abbfa1d3db14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16797f17b171e0289b11b8b00df17bd0') in 0.056869 seconds
+  Import took 0.061511 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011548 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.483 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1880.
+Total: 3.552600 ms (FindLiveObjects: 0.408600 ms CreateObjectMapping: 0.073700 ms MarkObjects: 3.035900 ms  DeleteObjects: 0.031800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.196831 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Hull_01.png
+  artifactKey: Guid(f7b8a3a6b15ae294f93c1eac745dc2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Hull_01.png using Guid(f7b8a3a6b15ae294f93c1eac745dc2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c77da065835142f57fdf41d2df8a0a2') in 0.124610 seconds
+  Import took 0.129775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.795350 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Hull_02.png
+  artifactKey: Guid(92e3a9465d3d39044bc1cdfeb63183b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Hull_02.png using Guid(92e3a9465d3d39044bc1cdfeb63183b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dbd3f347021c2d46593bf33a27a9c7e') in 0.050915 seconds
+  Import took 0.054571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.500190 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Hull_04.png
+  artifactKey: Guid(84085de429e0f75469a6277b313ccfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Hull_04.png using Guid(84085de429e0f75469a6277b313ccfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb06c8b1f89bc6fa21d85abb56f259a8') in 0.050209 seconds
+  Import took 0.053963 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008384 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.133 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1884.
+Total: 3.969200 ms (FindLiveObjects: 0.420200 ms CreateObjectMapping: 0.082100 ms MarkObjects: 3.431700 ms  DeleteObjects: 0.032400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.797419 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Base1.png
+  artifactKey: Guid(84085de429e0f75469a6277b313ccfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Base1.png using Guid(84085de429e0f75469a6277b313ccfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2b18eebdd55efc49692fb6f304c674') in 0.102000 seconds
+  Import took 0.106426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.834748 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base1.png
+  artifactKey: Guid(93146e749e06a1a4ca3078e1f908254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base1.png using Guid(93146e749e06a1a4ca3078e1f908254b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9443ba99d98b99003b59fdaf1a3652f7') in 0.055995 seconds
+  Import took 0.061144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.568499 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base2.png
+  artifactKey: Guid(ed03a829fadee6041b615f2bfc23fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base2.png using Guid(ed03a829fadee6041b615f2bfc23fe8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e489f99baef4988254580529b2146de9') in 0.047048 seconds
+  Import took 0.050945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.565035 seconds.
+  path: Assets/Resources/TanksModulesPlayer/Base3.png
+  artifactKey: Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/Base3.png using Guid(fa1f5a57c2c7f744196004ebf2029979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f65b540baa4a804ad8c044d59f9de5b1') in 0.048351 seconds
+  Import took 0.057756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.695166 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Base2.png
+  artifactKey: Guid(4d5f408f583d27942a5cdb264c7139c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Base2.png using Guid(4d5f408f583d27942a5cdb264c7139c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18327490fc8c37a4e8841a5406824762') in 0.040262 seconds
+  Import took 0.045100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.512986 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Base3.png
+  artifactKey: Guid(92e3a9465d3d39044bc1cdfeb63183b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Base3.png using Guid(92e3a9465d3d39044bc1cdfeb63183b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d31a5ad9aa4c93f77d0c1937b7f0f07') in 0.033642 seconds
+  Import took 0.038365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.642780 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_01_A.png
+  artifactKey: Guid(bbc7170a554000e47809a29db0b6e2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_01_A.png using Guid(bbc7170a554000e47809a29db0b6e2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317bea8d0318f3cf203e05abf5bb8d26') in 0.050277 seconds
+  Import took 0.053923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.485190 seconds.
+  path: Assets/Resources/TanksModulesEnemy/1.png
+  artifactKey: Guid(bbc7170a554000e47809a29db0b6e2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/1.png using Guid(bbc7170a554000e47809a29db0b6e2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e6ab8f628532c6aad8e4deaf14f8117') in 0.124218 seconds
+  Import took 0.128213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.064752 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_02_A.png
+  artifactKey: Guid(2e13206e946ca96488ee95519aa8cb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_02_A.png using Guid(2e13206e946ca96488ee95519aa8cb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369fff2a3c4770ec7d7ddc957452b3d1') in 0.052537 seconds
+  Import took 0.056159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.384128 seconds.
+  path: Assets/Resources/TanksModulesEnemy/2.png
+  artifactKey: Guid(2e13206e946ca96488ee95519aa8cb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/2.png using Guid(2e13206e946ca96488ee95519aa8cb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd72b6ed8a2e34442b2999c6bb35bba9') in 0.023997 seconds
+  Import took 0.038415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.662485 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_03_A.png
+  artifactKey: Guid(382960dd2fc43604b8ae6823f45abb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_03_A.png using Guid(382960dd2fc43604b8ae6823f45abb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5596cc2e43740a211fee1d2fff75db2') in 0.060130 seconds
+  Import took 0.066913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.420738 seconds.
+  path: Assets/Resources/TanksModulesEnemy/3.png
+  artifactKey: Guid(382960dd2fc43604b8ae6823f45abb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/3.png using Guid(382960dd2fc43604b8ae6823f45abb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc612791f829cf7a392c360b702fbc87') in 0.041429 seconds
+  Import took 0.046739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.536213 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_04_A.png
+  artifactKey: Guid(ec922b289cc03b44a9ec43266f570816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_04_A.png using Guid(ec922b289cc03b44a9ec43266f570816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c06f4616a0437954c90d87949afad28c') in 0.048364 seconds
+  Import took 0.052074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.975899 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_04_B.png
+  artifactKey: Guid(1455fb5c5ed04d546aec4e98d422a5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_04_B.png using Guid(1455fb5c5ed04d546aec4e98d422a5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4364b107aaee9e53b23041ff7f2ac6a') in 0.043177 seconds
+  Import took 0.049844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.776626 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_01_B.png
+  artifactKey: Guid(9b8f1a6441c1afb4ea89222f8ca1ecbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_01_B.png using Guid(9b8f1a6441c1afb4ea89222f8ca1ecbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150d531601855143a288d47da2782aed') in 0.057598 seconds
+  Import took 0.061186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.470095 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_02_B.png
+  artifactKey: Guid(a6b9648fc9b5c0341ac42a149dc28bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_02_B.png using Guid(a6b9648fc9b5c0341ac42a149dc28bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999da93930cb5d0fc9ea8e726a958c60') in 0.048311 seconds
+  Import took 0.052385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.031395 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_03_B.png
+  artifactKey: Guid(927ce35aa17f0c6458299a99aa2a9610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_03_B.png using Guid(927ce35aa17f0c6458299a99aa2a9610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140db159bca8533cdce602f69aec1b94') in 0.051999 seconds
+  Import took 0.056679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.934947 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_05_A.png
+  artifactKey: Guid(8fd24052da88728409699b4bde62be1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_05_A.png using Guid(8fd24052da88728409699b4bde62be1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb21a77a9227841c188fa4e270392ec') in 0.025468 seconds
+  Import took 0.033971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.176245 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_05_B.png
+  artifactKey: Guid(85eea942cd273354c88530fe364ae5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_05_B.png using Guid(85eea942cd273354c88530fe364ae5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15643666c23ffe5477d2015322a7665') in 0.031098 seconds
+  Import took 0.035785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.721756 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_06_A.png
+  artifactKey: Guid(f94c20ae46752bd4b922a72e4aff7776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_06_A.png using Guid(f94c20ae46752bd4b922a72e4aff7776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233893e892716476c42d60854b85cd7a') in 0.048761 seconds
+  Import took 0.052523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.149221 seconds.
+  path: Assets/Resources/TanksModulesEnemy/4.png
+  artifactKey: Guid(f94c20ae46752bd4b922a72e4aff7776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/4.png using Guid(f94c20ae46752bd4b922a72e4aff7776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b369809a0d74b0f48df902b16003113a') in 0.043134 seconds
+  Import took 0.048600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.570787 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_07_A.png
+  artifactKey: Guid(86fd59f224089ad4d93e2f1f1ee6441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_07_A.png using Guid(86fd59f224089ad4d93e2f1f1ee6441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d83440101778f553935d089e8b3325e') in 0.051729 seconds
+  Import took 0.056708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.146143 seconds.
+  path: Assets/Resources/TanksModulesEnemy/5.png
+  artifactKey: Guid(86fd59f224089ad4d93e2f1f1ee6441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/5.png using Guid(86fd59f224089ad4d93e2f1f1ee6441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '216540b38b2fbf702a0b2379df12193c') in 0.042295 seconds
+  Import took 0.048445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.557356 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_08_A.png
+  artifactKey: Guid(0a11a52d05bd3104a8e206ebd0592688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_08_A.png using Guid(0a11a52d05bd3104a8e206ebd0592688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34bae3596127f4d89469ab63a1f0d300') in 0.049013 seconds
+  Import took 0.052907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.141210 seconds.
+  path: Assets/Resources/TanksModulesEnemy/6.png
+  artifactKey: Guid(0a11a52d05bd3104a8e206ebd0592688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/6.png using Guid(0a11a52d05bd3104a8e206ebd0592688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '252fafb2ed0d3f53519304cd1d1a279a') in 0.045605 seconds
+  Import took 0.049925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.138617 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Tower1.png
+  artifactKey: Guid(9b8f1a6441c1afb4ea89222f8ca1ecbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Tower1.png using Guid(9b8f1a6441c1afb4ea89222f8ca1ecbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e0dea6c8bd0c13b987cbb1c5b1fe407') in 0.063004 seconds
+  Import took 0.067428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.412781 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Tower2.png
+  artifactKey: Guid(a6b9648fc9b5c0341ac42a149dc28bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Tower2.png using Guid(a6b9648fc9b5c0341ac42a149dc28bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cd7678b4f645590fbfcfab4ed1a2d70') in 0.036851 seconds
+  Import took 0.040761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.580283 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Tower3.png
+  artifactKey: Guid(927ce35aa17f0c6458299a99aa2a9610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Tower3.png using Guid(927ce35aa17f0c6458299a99aa2a9610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d506aae64a74b492f881c9df42c265c') in 0.044555 seconds
+  Import took 0.050162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.582338 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_06_B.png
+  artifactKey: Guid(4c412ee0c2717d8418b8d276ae72e8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_06_B.png using Guid(4c412ee0c2717d8418b8d276ae72e8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a742d766e4f3f2dbcfc40a2217df7277') in 0.049171 seconds
+  Import took 0.052771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.754838 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_07_B.png
+  artifactKey: Guid(a2a910938db954446abc04694ceb864b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_07_B.png using Guid(a2a910938db954446abc04694ceb864b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c833fc301a41ba01d1009eec6bb209') in 0.060118 seconds
+  Import took 0.063735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.455735 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_08_B.png
+  artifactKey: Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_08_B.png using Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9814569e64529f6b3d3082161a36c7ca') in 0.051231 seconds
+  Import took 0.056474 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.257 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1888.
+Total: 4.473900 ms (FindLiveObjects: 0.445600 ms CreateObjectMapping: 0.079500 ms MarkObjects: 3.882900 ms  DeleteObjects: 0.062800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.244462 seconds.
+  path: Assets/Resources/tracksLarge.png
+  artifactKey: Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tracksLarge.png using Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31b93cf9d2136f760b4d8968a84fabd') in 0.115583 seconds
+  Import took 0.120963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.579969 seconds.
+  path: Assets/Resources/tracksLarge.png
+  artifactKey: Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tracksLarge.png using Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31b93cf9d2136f760b4d8968a84fabd') in 0.030006 seconds
+  Import took 0.042860 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.036415 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.003 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1892.
+Total: 4.734100 ms (FindLiveObjects: 1.243800 ms CreateObjectMapping: 0.082300 ms MarkObjects: 3.356800 ms  DeleteObjects: 0.047100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.374817 seconds.
+  path: Assets/Resources/tracksLarge.png
+  artifactKey: Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tracksLarge.png using Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3953337e8c499fd531326200f01b457') in 0.113272 seconds
+  Import took 0.117124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.527218 seconds.
+  path: Assets/Resources/tracksLarge.png
+  artifactKey: Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tracksLarge.png using Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c99b8fe52ee9a9593f19a596c6b3c2f') in 0.052499 seconds
+  Import took 0.061155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.574011 seconds.
+  path: Assets/Resources/TanksModulesPlayer/gun3.png
+  artifactKey: Guid(413a1bb3c3d9df24986b9e6a4c9d8dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesPlayer/gun3.png using Guid(413a1bb3c3d9df24986b9e6a4c9d8dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86d925f951eeff65c35e637d11fdfa05') in 0.049069 seconds
+  Import took 0.052945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.684453 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Base2.png
+  artifactKey: Guid(4d5f408f583d27942a5cdb264c7139c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Base2.png using Guid(4d5f408f583d27942a5cdb264c7139c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b62f1f8fbea3f96d6e880926f366e92') in 0.034454 seconds
+  Import took 0.039118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.545510 seconds.
+  path: Assets/Resources/TanksModulesEnemy/2.png
+  artifactKey: Guid(2e13206e946ca96488ee95519aa8cb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/2.png using Guid(2e13206e946ca96488ee95519aa8cb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6529ba705a706d1f0724994a8d88264') in 0.048761 seconds
+  Import took 0.052531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.625390 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Base1.png
+  artifactKey: Guid(84085de429e0f75469a6277b313ccfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Base1.png using Guid(84085de429e0f75469a6277b313ccfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77b465d2c7bab2af0f47b7acc250167e') in 0.039258 seconds
+  Import took 0.047758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.464170 seconds.
+  path: Assets/Resources/TanksModulesEnemy/5.png
+  artifactKey: Guid(86fd59f224089ad4d93e2f1f1ee6441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/5.png using Guid(86fd59f224089ad4d93e2f1f1ee6441f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca5957f60ae441d8b4832ebb9ecdab7') in 0.047988 seconds
+  Import took 0.052019 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.031923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.194 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1898.
+Total: 4.737800 ms (FindLiveObjects: 0.412200 ms CreateObjectMapping: 0.077900 ms MarkObjects: 3.035100 ms  DeleteObjects: 1.210000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.656430 seconds.
+  path: Assets/Resources/tracksLarge.png
+  artifactKey: Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tracksLarge.png using Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e64fed1f7ab4dc22c6097072ae4a87') in 0.110499 seconds
+  Import took 0.120513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.645093 seconds.
+  path: Assets/Resources/tracksLarge.png
+  artifactKey: Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tracksLarge.png using Guid(6e443d048b239ae4cb687b55bbd47c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e64fed1f7ab4dc22c6097072ae4a87') in 0.028662 seconds
+  Import took 0.032252 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007774 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.985 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1902.
+Total: 3.883100 ms (FindLiveObjects: 0.414700 ms CreateObjectMapping: 0.074800 ms MarkObjects: 3.359100 ms  DeleteObjects: 0.031500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 627.107743 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Tower1.png
+  artifactKey: Guid(9b8f1a6441c1afb4ea89222f8ca1ecbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Tower1.png using Guid(9b8f1a6441c1afb4ea89222f8ca1ecbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6834bc8a0cad9dde95b9dd52fb95a17c') in 0.141808 seconds
+  Import took 0.148060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.602097 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_08_B 1.png
+  artifactKey: Guid(bea9f70f7f0619b47a27be07cf559ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_08_B 1.png using Guid(bea9f70f7f0619b47a27be07cf559ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '582fc46a15856f8dbb1f479984c660d2') in 0.026777 seconds
+  Import took 0.032856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.877967 seconds.
+  path: Assets/Resources/TanksModulesEnemy/Gun_08_B.png
+  artifactKey: Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/TanksModulesEnemy/Gun_08_B.png using Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff0ad037aadd2778de7ed18fcb941aa') in 0.075795 seconds
+  Import took 0.079976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.565089 seconds.
+  path: Assets/Resources/EnemyBase.png
+  artifactKey: Guid(bea9f70f7f0619b47a27be07cf559ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/EnemyBase.png using Guid(bea9f70f7f0619b47a27be07cf559ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43f59ca1daebd07f874373de3a80a64') in 0.035338 seconds
+  Import took 0.039448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.676349 seconds.
+  path: Assets/Resources/PlayerBase.png
+  artifactKey: Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/PlayerBase.png using Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5f602bf6d482353fb4ce862321f544') in 0.051719 seconds
+  Import took 0.055390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.326515 seconds.
+  path: Assets/Resources/PlayerBase.png
+  artifactKey: Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/PlayerBase.png using Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88868aac41e158d57d71f9330e42a38') in 0.090889 seconds
+  Import took 0.095279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.641799 seconds.
+  path: Assets/Resources/tankBody_darkLarge_outline.png
+  artifactKey: Guid(3f59059fba339fc40acc37ad95cab54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tankBody_darkLarge_outline.png using Guid(3f59059fba339fc40acc37ad95cab54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f540812df5df556ab9163a4a2e525c') in 0.060589 seconds
+  Import took 0.065567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.699870 seconds.
+  path: Assets/Resources/tankBody_darkLarge_outline.png
+  artifactKey: Guid(3f59059fba339fc40acc37ad95cab54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tankBody_darkLarge_outline.png using Guid(3f59059fba339fc40acc37ad95cab54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a35c1e381d0932a6404e64de0a15a7') in 0.112030 seconds
+  Import took 0.118916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.859752 seconds.
+  path: Assets/Resources/EnemyBase.png
+  artifactKey: Guid(bea9f70f7f0619b47a27be07cf559ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/EnemyBase.png using Guid(bea9f70f7f0619b47a27be07cf559ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00a078da3057830955f582e2e72343c8') in 0.049377 seconds
+  Import took 0.053962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.203704 seconds.
+  path: Assets/Resources/PlayerBase.png
+  artifactKey: Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/PlayerBase.png using Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54a6187420dc272719bec92fe796f657') in 0.087674 seconds
+  Import took 0.099778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.529563 seconds.
+  path: Assets/Resources/tankBody_darkLarge_outline.png
+  artifactKey: Guid(3f59059fba339fc40acc37ad95cab54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tankBody_darkLarge_outline.png using Guid(3f59059fba339fc40acc37ad95cab54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1196f2a3151ec0bc54779b1e5db895f1') in 0.046084 seconds
+  Import took 0.049918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.666091 seconds.
+  path: Assets/Resources/PlayerBase.png
+  artifactKey: Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/PlayerBase.png using Guid(e4e1a10321e031248bd84d0b6f90c29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7fb3ca571894ef0cce2944f486ecec8') in 0.071086 seconds
+  Import took 0.078168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.530180 seconds.
+  path: Assets/Resources/tankBody_darkLarge_outline.png
+  artifactKey: Guid(3f59059fba339fc40acc37ad95cab54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tankBody_darkLarge_outline.png using Guid(3f59059fba339fc40acc37ad95cab54a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43495feff83dc543c8672449ce339541') in 0.042313 seconds
+  Import took 0.046186 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.193 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1394 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.3 MB.
+System memory in use after: 68.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1911.
+Total: 3.765300 ms (FindLiveObjects: 0.447300 ms CreateObjectMapping: 0.082200 ms MarkObjects: 3.184800 ms  DeleteObjects: 0.047400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
